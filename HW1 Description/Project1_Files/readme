@@ -1,0 +1,16 @@
+Input: Uint8 0-255 OutPut: Uint8 0-255
+
+readraw.m  
+MATLAB source code provided to read in grayscale raw image files 
+
+readraw_color.m  
+MATLAB source code provided to read in color image files 
+
+writeraw.m          
+MATLAB source code provided to output grayscale raw image files 
+
+writeraw_color.m          
+MATLAB source code provided to output color image files 
+
+readraw.cpp  
+C++ code provided to read in and output grayscale raw image files and to read in and output grayscale raw image files
