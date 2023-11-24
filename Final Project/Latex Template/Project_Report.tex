@@ -1,0 +1,79 @@
+\documentclass[10pt,journal,compsoc]{IEEEtran}
+\usepackage{graphics}
+\graphicspath{ {Figures/} }
+\usepackage{float}
+\usepackage{balance}
+\usepackage{times}
+\usepackage{url}
+\usepackage{subfigure}
+\usepackage{color}
+\usepackage[pdftex]{hyperref}
+\usepackage{subfigure}
+\usepackage{textcomp}
+\usepackage{color}
+\usepackage{capt-of}
+\usepackage{mathtools}
+\usepackage{amsmath}
+\usepackage{algorithm,algorithmic}
+\usepackage{multirow}
+\usepackage{soul}
+
+\usepackage{times}
+% To make various LaTeX processors do the right thing with page size.
+
+
+% End of preamble. Here it comes the document.
+
+\begin{document}
+
+\title{Asthma Pattern Identification via Continuous Diaphragm Motion Monitoring}
+
+\author{Menghan~Liu and Ming-Chun Huang% <-this % stops a space
+\IEEEcompsocitemizethanks{\IEEEcompsocthanksitem Menghan Liu is with the Department
+of Electrical Engineering and Computer Science, Case Western Reserve University, Cleveland, OH 44106.
+\protect\\
+% note need leading \protect in front of \\ to get a newline within \thanks as
+% \\ is fragile and will error, could use \hfil\break instead.
+E-mail: mxl677@case.edu}% <-this % stops an unwanted space
+\IEEEcompsocitemizethanks{\IEEEcompsocthanksitem
+Ming-Chun Huang is with the Department
+of Electrical Engineering and Computer Science, Case Western Reserve University, Cleveland, OH 44106.
+\protect\\
+% note need leading \protect in front of \\ to get a newline within \thanks as
+% \\ is fragile and will error, could use \hfil\break instead.
+E-mail: ming-chun.huang@case.edu}% <-this % stops an unwanted space
+}
+
+
+
+
+
+\IEEEtitleabstractindextext{%
+\begin{abstract}
+\input{abstract.tex}
+\end{abstract}
+
+% Note that keywords are not normally used for peerreview papers.
+\begin{IEEEkeywords}
+Ultrasound, Image Segmentation, Respiration Signal Extraction, Asthma Pattern.
+\end{IEEEkeywords}}
+
+\maketitle
+
+
+\input{introduction.tex}
+\input{preliminary.tex}
+\input{relatedwork.tex}
+\input{system.tex}
+\input{experiment.tex}
+\input{conclusion.tex}
+
+\bibliographystyle{abbrv}
+\bibliography{sigproc}
+
+\input{biography.tex}
+
+
+
+
+\end{document}

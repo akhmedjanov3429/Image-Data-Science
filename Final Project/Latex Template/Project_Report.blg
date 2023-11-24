@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Project_Report.aux
+The style file: abbrv.bst
+Database file #1: sigproc.bib
+Warning--to sort, need author or key in Asthma:2014
+Warning--to sort, need author or key in Vitalsigns:2011
+Name 7 in "Castro, Mario and Fain, Sean B and Hoffman, Eric A and Gierada, David S and Erzurum, Serpil C and Wenzel, Sally and National Heart, Lung, and Blood Institute and others" has a comma at the end for entry Mario:2011
+while executing---line 1049 of file abbrv.bst
+Warning--empty author in Vitalsigns:2011
+Warning--empty journal in Vitalsigns:2011
+Warning--empty author in Asthma:2014
+Warning--empty journal in Asthma:2014
+Warning--empty journal in ACAAI：2013
+Name 7 in "Castro, Mario and Fain, Sean B and Hoffman, Eric A and Gierada, David S and Erzurum, Serpil C and Wenzel, Sally and National Heart, Lung, and Blood Institute and others" has a comma at the end for entry Mario:2011
+while executing---line 1090 of file abbrv.bst
+Warning--empty journal in National:2013
+Warning--empty journal in NH
+Warning--empty journal in Tuathan:2014
+You've used 31 entries,
+            2118 wiz_defined-function locations,
+            694 strings with 10011 characters,
+and the built_in function-call counts, 12286 in all, are:
+= -- 1155
+> -- 785
+< -- 7
++ -- 316
+- -- 280
+* -- 993
+:= -- 2079
+add.period$ -- 94
+call.type$ -- 31
+change.case$ -- 227
+chr.to.int$ -- 0
+cite$ -- 41
+duplicate$ -- 389
+empty$ -- 801
+format.name$ -- 280
+if$ -- 2476
+int.to.chr$ -- 0
+int.to.str$ -- 31
+missing$ -- 30
+newline$ -- 156
+num.names$ -- 58
+pop$ -- 226
+preamble$ -- 1
+purify$ -- 196
+quote$ -- 0
+skip$ -- 286
+stack$ -- 0
+substring$ -- 668
+swap$ -- 78
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 124
+warning$ -- 10
+while$ -- 100
+width$ -- 33
+write$ -- 328
+(There were 2 error messages)
